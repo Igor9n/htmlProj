@@ -9,27 +9,38 @@
     border-radius: 10px;
 
 }
-.form-group{
+.form-group {
     margin-top: 5px;
     margin-bottom: 5px;
 }
 .body {
     background-color: #286090;
 }
-.btn:hover{
+.btn:hover {
     color:rebeccapurple;
 }
-.title:hover{
+.title:hover {
     color: white;
 }
-footer{
+footer {
     position: absolute;
     bottom: 10px;
     background-color: white;
+    width: 100%;
 
 }
-header{
+header {
     position: absolute;
     top: 10px;
     background-color: white;
+    width: 100%;
+}
+.checkbox {
+    opacity: 0.5;
+}
+.header-login {
+    float: right;
+}
+.header-logo {
+    float: left;
 }
